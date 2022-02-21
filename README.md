@@ -13,7 +13,8 @@ data = pd.read_csv(url, encoding = "ISO-8859-1")
 # Code
 
 Python Notebook: 
-Is loaded in this repository. The file name is: 'BSAN-6070 CA03_Census_Data_Mfolozi_Dlamini_20Feb.ipynb'
+Is loaded in this repository. The file name is:\
+'BSAN-6070 CA03_Census_Data_Mfolozi_Dlamini_20Feb.ipynb'
 
 # Instructions on how to launch
 1) Open the python notebook on google colab.
@@ -21,8 +22,9 @@ Is loaded in this repository. The file name is: 'BSAN-6070 CA03_Census_Data_Mfol
 3)  Read CSV file
 url = 'https://github.com/ArinB/MSBA-CA-Data/blob/main/CA03/census_data.csv?raw=true'
 data = pd.read_csv(url, encoding = "ISO-8859-1")
-4) Run the Code
-    a) for running the automation model you will have to load the data file'auto_testing_mfolozi_20feb.csv' also included in this repository
+4) Run the Code\
+    a) for running the automation model you will have to load the data file included in this repository:\
+    'auto_testing_mfolozi_20feb.csv' also included in this repository\
     b)then run the code for automation model (#8)
   
 
